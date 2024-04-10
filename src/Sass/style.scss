@@ -1,0 +1,18 @@
+//variable
+@import "../Sass/components/function.scss";
+@import "../Sass/variable.scss";
+
+//base
+@import "../Sass/base.scss";
+@import "../Sass/breakpoint.scss";
+@import "../Sass/grid.scss";
+
+//color
+@import "../Sass/colors.scss";
+
+//components
+@import "../Sass/components/card.scss";
+@import "../Sass/components/button.scss";
+@import "../Sass/components/navbar.scss";
+
+@import "../Sass/components/utilities.scss";
